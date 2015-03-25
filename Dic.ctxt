@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dic()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dic\r\n
+comment1.params=
+comment1.target=void\ readFileViaStream()
+comment1.text=\r\n\ reads\ a\ dictionary\ file\ and\ loads\ the\ words\ from\ there.\r\n
+comment2.params=
+comment2.target=java.lang.String\ hidden()
+comment2.text=\r\n\ makes\ a\ "hidden"\ representation\ of\ the\ word\ that\ is\ going\ to\ be\ guessed.\r\n
+comment3.params=
+comment3.target=void\ words()
+comment3.text=\r\n\ Add\ words\ manually\ to\ the\ game\ dictionary.\r\n
+comment4.params=
+comment4.target=void\ loadWord()
+comment4.text=\r\n\ chooses\ the\ word\ to\ be\ guessed.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getWord()
+numComments=6
